@@ -26,3 +26,9 @@ This project simulates a wearable health monitoring system using a real-time tas
 ## 📈 Output
 - Filtered signals
 - Simulated heart rate and oxygen level
+
+  ---
+
+## 👩‍💻 Author
+**Nikita Sinha** -🔧 Firmware & Embedded Systems | M.S. Electrical and Computer Engineering  
+
